@@ -1,12 +1,8 @@
-import javafx.scene.Group;
 import javafx.scene.control.Button;
 import javafx.geometry.*;
 import javafx.scene.shape.*;
-import javafx.scene.paint.Color;
 import java.util.Random;
 import javafx.event.ActionEvent;
-import javafx.scene.text.Text;
-import javafx.scene.input.MouseEvent;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.effect.DropShadow;

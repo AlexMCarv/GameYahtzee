@@ -1,16 +1,6 @@
-import javafx.event.ActionEvent;
-import javafx.scene.Scene;
-import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;
-import javafx.scene.layout.VBox;
-import javafx.stage.Stage;
-import javafx.scene.layout.FlowPane;
-import javafx.scene.control.Label;
-import javafx.scene.control.Button;
-import javafx.stage.Modality;
 import javafx.geometry.*;
-import javafx.scene.shape.*;
-import javafx.scene.paint.Color;
+
 
 public class Player extends HBox {
 

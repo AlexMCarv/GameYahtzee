@@ -1,14 +1,8 @@
 import javafx.event.ActionEvent;
-import javafx.scene.Scene;
-import javafx.scene.control.Button;
 import javafx.scene.layout.*;
-import javafx.stage.Stage;
 import javafx.scene.control.Label;
-import javafx.scene.control.Button;
-import javafx.stage.Modality;
 import javafx.geometry.*;
-import javafx.scene.shape.*;
-import javafx.scene.paint.Color;
+
 
 public class ScoreBoard extends GridPane{
   // Score Board Fields
